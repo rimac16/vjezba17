@@ -1,0 +1,43 @@
+<!DOCTYPE HTML>
+<html lang="hr">
+	<head>
+		<title>CSS5</title>
+		<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+		<meta name="description" content="">
+		<meta name="keywords" content="">
+		<meta name="author" content="Tadija Rimac">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+		<style>
+			h1 { 
+				color: royalblue;
+				text-align: center;
+			}
+			figure {
+				width: 50%;
+				float: left;
+				margin-right: 1%;
+			}
+			figure img {
+				width:100%;
+			}
+			video {
+				width: 100%;
+				margin-top: 10px;
+			}
+		</style>
+	</head>
+
+<body>
+	<h1>Košarka</h1>
+	<figure><img src="C:\Users\tadij\Downloads\MJ.jpg"></figure>
+	<p>Michael Jeffrey Jordan (Brooklyn, New York, 17. veljače 1963.) umirovljeni je američki profesionalni košarkaš. Igrao je na poziciji bek šutera, a izabran je u 1. krugu (3. ukupno) NBA drafta 1984. od strane Chicago Bullsa. U svojoj četrnaestogodišnjoj NBA karijeri ostvario je mnoge uspjehe. Igravši za Chicago Bullse osvojio je 6 NBA prstena, 5 puta proglašavan je najkorisnijim igračem lige te 6 puta najkorisnijim igračem NBA finala. Jordan je četrnaesterostruki NBA All-Star, te je jedanaest puta biran u All-NBA momčad i jednom je proglašen obrambenim igračem godine. Ušao je u Kuću slavnih 2009. godine.
+
+U razdoblju od 1991. do 1993. godine Jordan je uz pomoć Scottie Pippena osvojio čak tri NBA prstena te se nakon kraja sezone 1992./93. odlučio umiroviti i okušati u baseballu. Nakon neuspjeha u baseballu, Jordan se vraća i u sezoni 1995./96. s Bullsima postavlja neoboriv omjer 72-10 i osvaja svoj četvrti naslov. To isto ponavlja i iduće dvije sezone te osvaja svoj šesti NBA prsten u osam godina. U njegovu čast Bullsi su mu umirovili dres s brojem 23. Nakon umirovljenja 1998. godine, Jordan se ponovno vratio na NBA parkete te od 2001. do 2003. godine nastupao za Washington Wizardse. Međutim zbog problema s koljenima, Jordan se 2003. godine ponovno povlači iz profesionalne košarke.
+
+S američkom reprezentacijom osvojio je dvije zlatne olimpijske medalje. Prvu je osvojio na Olimpijskim igrama u Los Angelesu 1984. godine, a drugu osvaja na Olimpijskim igrama u Barceloni 1992. kao član originalnog Dream Teama. To je bilo prvi puta da je dopušteno sudjelovanje NBA igrača na nekim Olimpijskim igrama.
+
+Jordan je u ljeto 2020. uspio ispregovarati povratak košarke nakon bojkota tamnoputih igrača zbog ubojstva njihovih sugrađana.</p>
+	<video controls><source src="C:\Users\tadij\Downloads\MJ Finals.mp4" type="video/mp4"></video>
+</body>
+</html>
